@@ -40,6 +40,8 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 	- Almost all of them don't work because they aren't made with Android's inputs in mind
 
 ## Other Mods
+- [Distant Horizons(2.0> only)](https://modrinth.com/mod/distanthorizons/versions)
+	- [Add this mod](https://www.mediafire.com/file/t9ipmw6af750efi/UNZIP-ME_DH-2.0_android-patch_fabric-forge_1.16.5-1.21.zip/file)
 - [Legacy4J](https://modrinth.com/mod/legacy4j)
 	- Set `selectedControllerHandler` in options.txt to 0
 - Create [**(Forge)**](https://www.curseforge.com/minecraft/mc-mods/create) [**(Fabric)**](https://modrinth.com/mod/create-fabric)
