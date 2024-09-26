@@ -19,11 +19,10 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 	- **Xiaomi Poco X5 Pro** (Snapdragon 778G)
 	- **Xiaomi Redmi Note 8** (Snapdragon 665)
 	- **Oppo A53** (Snapdragon 460)
+- [Distant Horizons(2.0> only)](https://modrinth.com/mod/distanthorizons/versions)
+	- [install this mod](https://www.mediafire.com/file/t9ipmw6af750efi/UNZIP-ME_DH-2.0_android-patch_fabric-forge_1.16.5-1.21.zip/file)
 
 ## Skyblock Mods
-- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
-	- Use angle/zink renderer.
-- [Quartz](https://www.curseforge.com/minecraft/mc-mods/quartz)
 - [Essential](https://essential.gg/)
 - [Skytils](https://github.com/Skytils/SkytilsMod) 
 	- [1.3.0-pre5](https://github.com/Skytils/SkytilsMod/releases/download/v1.3.0-pre5/Skytils-1.3.0-pre5.jar) works
@@ -40,8 +39,9 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 	- Almost all of them don't work because they aren't made with Android's inputs in mind
 
 ## Other Mods
-- [Distant Horizons(2.0> only)](https://modrinth.com/mod/distanthorizons/versions)
-	- [Add this mod](https://www.mediafire.com/file/t9ipmw6af750efi/UNZIP-ME_DH-2.0_android-patch_fabric-forge_1.16.5-1.21.zip/file)
+- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+	- Use angle/zink renderer.
+- [Quartz](https://www.curseforge.com/minecraft/mc-mods/quartz)
 - [Legacy4J](https://modrinth.com/mod/legacy4j)
 	- Set `selectedControllerHandler` in options.txt to 0
 - Create [**(Forge)**](https://www.curseforge.com/minecraft/mc-mods/create) [**(Fabric)**](https://modrinth.com/mod/create-fabric)
