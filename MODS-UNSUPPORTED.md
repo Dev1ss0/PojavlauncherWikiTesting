@@ -64,7 +64,6 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 	- FFMPEG is wrongly placed
 - [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) 
 	- White textures on 1.12
-- Sex mod **(thanks *@Adiixyz*)** 
 - [Immersive Vehicles](https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator)
 	- Only broken on Forge
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) 
